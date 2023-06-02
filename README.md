@@ -1,4 +1,4 @@
-## String em Python: extraindo informações de uma URL ##
+#### String em Python: extraindo informações de uma URL ####
 ********************************************************
 *Conteúdo do curso forcenido pela Alura na formaão em python*
 *****************************************************************
@@ -19,10 +19,5 @@ Expressões regulares
 
 Métodos especiais
 ***********************************************************************************
-<img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" width="50px">
-<a href="https://www.python.org/" alt="Python" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:Blue_Python_3.9_Shield_Badge.svg">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  <a href="https://www.linkedin.com/in/jeancarlosoliveiradelima/" alt="Linkdln" target="_blank">
-</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
