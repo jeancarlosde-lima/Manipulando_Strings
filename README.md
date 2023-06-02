@@ -1,4 +1,5 @@
 #### String em Python: extraindo informações de uma URL ####
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ********************************************************
 *Conteúdo do curso forcenido pela Alura na formaão em python*
 *****************************************************************
